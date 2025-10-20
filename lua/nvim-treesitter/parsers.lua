@@ -1166,10 +1166,10 @@ return {
   },
   julia = {
     install_info = {
-      revision = '73d1539a51b8a202d6d2471cc594cf4d7c5e673f',
-      url = 'https://github.com/tree-sitter/tree-sitter-julia',
+      revision = '1916f7fe5a670c94224f67dc0f19358828689cdb',
+      url = 'https://github.com/tree-sitter-grammars/tree-sitter-julia',
     },
-    maintainers = { '@fredrikekre' },
+    maintainers = { '@clason' },
     tier = 2,
   },
   just = {
